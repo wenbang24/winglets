@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "335dc3e7-4b48-409c-a95a-8b4c8a2649e6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 121.92 33.02)
+		(size 60.96 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f377a2a-2ac6-4c1e-af1c-bc385cc3cd4c")
+		(property "Sheetname" "right"
+			(at 121.92 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 121.92 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "winglets"
+				(path "/335dc3e7-4b48-409c-a95a-8b4c8a2649e6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 34.29)
+		(size 63.5 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "abbba996-2df9-4caa-8ec1-43a5aba66f58")
+		(property "Sheetname" "left"
+			(at 22.86 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 22.86 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "winglets"
+				(path "/335dc3e7-4b48-409c-a95a-8b4c8a2649e6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
