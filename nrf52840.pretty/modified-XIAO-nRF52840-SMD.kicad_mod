@@ -1,4 +1,4 @@
-(footprint "XIAO-nRF52840-SMD"
+(footprint "modified-XIAO-nRF52840-SMD"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -6,7 +6,7 @@
 	(property "Reference" "U1"
 		(at -9.445 -11.5 0)
 		(layer "F.SilkS")
-		(uuid "ad2a631b-d59e-47b0-a99c-4d2f12924b34")
+		(uuid "983f1c15-7e23-4ddd-b468-71e374662485")
 		(effects
 			(font
 				(size 0.78232 0.78232)
@@ -18,7 +18,7 @@
 	(property "Value" "XIAO-nRF52840-SMD"
 		(at 0.055 6.5 0)
 		(layer "F.Fab")
-		(uuid "3dc8af31-c171-422a-a1ea-f65ecbca15f1")
+		(uuid "7fe4e741-8f68-4e13-9529-802b3ee532de")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ef31df75-5557-4b56-ba21-afc62cef429a")
+		(uuid "a046f510-59dc-4d05-aff9-6de25354f7bd")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9623cbe8-de94-46a4-b76e-d7dcd9a87543")
+		(uuid "7553894a-2ece-4e5f-a2fb-6f8f4faf02e6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -413,48 +413,6 @@
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 45)
 		(uuid "0352a7e5-4900-4585-adaf-7f27b2061f4c")
-	)
-	(pad "17" smd roundrect
-		(at 3.755 9.2369 270)
-		(size 2.5 1.1)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(solder_mask_margin 0.0508)
-		(thermal_bridge_angle 45)
-		(uuid "d7b63dc0-5cf5-4693-b24a-9368053a7354")
-	)
-	(pad "18" smd roundrect
-		(at 5.66 9.2369 270)
-		(size 2.5 1.1)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(solder_mask_margin 0.0508)
-		(thermal_bridge_angle 45)
-		(uuid "6e6bbf07-dfcd-4f5f-980b-3cc3e218439d")
-	)
-	(pad "19" smd circle
-		(at -1.325 -8.5685)
-		(size 1.7 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "9df0639d-5227-4101-876c-9cb1a5f17f43")
-	)
-	(pad "20" smd circle
-		(at 1.215 -8.5685)
-		(size 1.7 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "8c96cf5f-a89b-4991-af10-f70fe2a3e025")
-	)
-	(pad "21" smd circle
-		(at -1.325 -6.0285)
-		(size 1.7 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "6189593a-729f-4e52-a620-6186d7f310ca")
-	)
-	(pad "22" smd circle
-		(at 1.215 -6.0285)
-		(size 1.7 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "5a21b827-a784-4499-a073-0dae1770d259")
 	)
 	(embedded_fonts no)
 )

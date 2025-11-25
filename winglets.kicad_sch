@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 121.92 33.02)
-		(size 60.96 44.45)
+		(at 142.24 66.04)
+		(size 66.04 33.02)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20,9 +20,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "8f377a2a-2ac6-4c1e-af1c-bc385cc3cd4c")
+		(uuid "6d017107-7697-4bf9-8822-e577abf56a49")
 		(property "Sheetname" "right"
-			(at 121.92 32.3084 0)
+			(at 142.24 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "side.kicad_sch"
-			(at 121.92 78.0546 0)
+			(at 142.24 99.6446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
