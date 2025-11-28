@@ -4,3 +4,6 @@
 [submodule "Panelization.pretty"]
 	path = Panelization.pretty
 	url = https://github.com/madworm/Panelization.pretty
+[submodule "keyboard_reversible.pretty"]
+	path = keyboard_reversible.pretty
+	url = https://github.com/50an6xy06r6n/keyboard_reversible.pretty

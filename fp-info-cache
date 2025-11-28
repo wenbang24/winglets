@@ -1,4 +1,4 @@
-26229660099164987
+26307289073043701
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91650,6 +91650,41 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Panelization
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-5mm-slot
+
+
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -105062,6 +105097,272 @@ Varistor VF
 0
 2
 2
+keyboard_reversible
+Choc_Hotswap
+
+
+0
+6
+2
+keyboard_reversible
+Choc_Hotswap_w_diode
+
+
+0
+8
+2
+keyboard_reversible
+Choc_Mill-Max
+
+
+0
+7
+2
+keyboard_reversible
+Choc_Mill-Max_with_diode
+
+
+0
+9
+2
+keyboard_reversible
+ComboDiode
+Reversible diode footprint
+reversible diode
+0
+2
+2
+keyboard_reversible
+ComboDiode_compact
+Reversible diode footprint
+reversible diode
+0
+2
+2
+keyboard_reversible
+MX_Choc_Hotswap
+
+
+0
+12
+2
+keyboard_reversible
+MX_Choc_Hotswap_w_diode
+
+
+0
+14
+2
+keyboard_reversible
+MX_Choc_Mill-Max
+
+
+0
+11
+2
+keyboard_reversible
+MX_Choc_Mill-Max_with_diode
+
+
+0
+13
+2
+keyboard_reversible
+MX_Hotswap
+
+
+0
+6
+2
+keyboard_reversible
+MX_Hotswap_w_diode
+
+
+0
+8
+2
+keyboard_reversible
+MX_Mill-Max
+
+
+0
+4
+2
+keyboard_reversible
+MX_Mill-Max_with_diode
+
+
+0
+6
+2
+keyboard_reversible
+PJ-320A
+Solder-jumper reversible TRRS Socket
+
+0
+14
+4
+keyboard_reversible
+ProMicro
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_Mill-Max
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_Mill-Max_flipped
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_Mill-Max_unrouted
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_Mill-Max_unrouted_flipped
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_breakout
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+144
+24
+keyboard_reversible
+ProMicro_expanded
+Solder-jumper reversible Pro Micro footprint (exposed jumpers)
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_expanded_flipped
+Solder-jumper reversible Pro Micro footprint (exposed jumpers)
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_expanded_unrouted
+Solder-jumper reversible Pro Micro footprint (exposed jumpers, unrouted)
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_expanded_unrouted_flipped
+Solder-jumper reversible Pro Micro footprint (exposed jumpers, unrouted)
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_flipped
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+146
+24
+keyboard_reversible
+ProMicro_independent
+Solder-jumper reversible Pro Micro footprint (independent sides)
+promicro ProMicro reversible solder jumper
+0
+122
+48
+keyboard_reversible
+ProMicro_independent_flipped
+Solder-jumper reversible Pro Micro footprint (independent sides)
+promicro ProMicro reversible solder jumper
+0
+122
+48
+keyboard_reversible
+ProMicro_jumpable
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_unrouted
+Solder-jumper reversible Pro Micro footprint (unrouted)
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+ProMicro_unrouted_flipped
+Solder-jumper reversible Pro Micro footprint (unrouted)
+promicro ProMicro reversible solder jumper
+0
+122
+24
+keyboard_reversible
+Trackpoint_T460s
+
+
+0
+17
+8
+keyboard_reversible
+Trackpoint_T460s_Board_castellated
+
+
+0
+22
+10
+keyboard_reversible
+Trackpoint_T460s_Board_horizontal_flip
+
+
+0
+34
+12
+keyboard_reversible
+Trackpoint_T460s_Board_horizontal_flip_standoff
+For use with https://jlcpcb.com/partdetail/Sinhoo-SMTSO1630MTJ/C2915625
+
+0
+36
+12
+keyboard_reversible
+Trackpoint_T460s_Board_no_flip
+
+
+0
+12
+12
+keyboard_reversible
+Trackpoint_T460s_Board_vertical_flip
+
+
+0
+24
+12
+keyboard_reversible
+Trackpoint_T460s_Stick
+
+
+0
+9
+4
 lad1337
 CPG1316S01D02_reversible
 
@@ -105105,16 +105406,16 @@ lipo-reversible
 2
 2
 nrf52840
-modified-XIAO-nRF52840-SMD
-
-
-0
-32
-16
-switch
 SW-SMD_MSK12CO2
 
 
 0
-7
+14
 5
+nrf52840
+modified-XIAO-nRF52840-SMD
+
+
+0
+16
+16
